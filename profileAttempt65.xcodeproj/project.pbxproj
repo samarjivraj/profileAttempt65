@@ -14,6 +14,7 @@
 		BD4931B72C5B93E6001E0957 /* profileAttempt65Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4931B62C5B93E6001E0957 /* profileAttempt65Tests.swift */; };
 		BD4931C12C5B93E6001E0957 /* profileAttempt65UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4931C02C5B93E6001E0957 /* profileAttempt65UITests.swift */; };
 		BD4931C32C5B93E6001E0957 /* profileAttempt65UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4931C22C5B93E6001E0957 /* profileAttempt65UITestsLaunchTests.swift */; };
+		BD4931D02C5BC945001E0957 /* quizPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4931CF2C5BC945001E0957 /* quizPage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BD4931BC2C5B93E6001E0957 /* profileAttempt65UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = profileAttempt65UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD4931C02C5B93E6001E0957 /* profileAttempt65UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileAttempt65UITests.swift; sourceTree = "<group>"; };
 		BD4931C22C5B93E6001E0957 /* profileAttempt65UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profileAttempt65UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BD4931CF2C5BC945001E0957 /* quizPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = quizPage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				BD4931A52C5B93E3001E0957 /* profileAttempt65App.swift */,
 				BD4931A72C5B93E3001E0957 /* ContentView.swift */,
+				BD4931CF2C5BC945001E0957 /* quizPage.swift */,
 				BD4931A92C5B93E6001E0957 /* Assets.xcassets */,
 				BD4931AB2C5B93E6001E0957 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				BD4931A82C5B93E3001E0957 /* ContentView.swift in Sources */,
 				BD4931A62C5B93E3001E0957 /* profileAttempt65App.swift in Sources */,
+				BD4931D02C5BC945001E0957 /* quizPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
